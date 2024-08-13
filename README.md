@@ -1,4 +1,4 @@
-👋 Hi, I’m Umar Aurangzeb, currently pursuing a Bachelor's degree in Computer Science at FAST NUCES Karachi. I am a passionate web developer with a strong foundation in HTML, CSS, JavaScript, and ReactJS.
+👋 Hi, I’m Umar Aurangzeb, currently pursuing a Bachelor's degree in Computer Science at FAST NUCES Karachi. I am a passionate web developer with a strong foundation in HTML, CSS, JavaScript, and ReactJS and Nextjs.
 
 🌱 I’m currently learning and exploring new technologies like nextjs to enhance my skills as a developer.
 
