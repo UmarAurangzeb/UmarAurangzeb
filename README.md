@@ -8,7 +8,7 @@
 
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E44FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Full-Stack+%2B+AI;Shipping+production+products+that+scale;Building+with+RAG%2C+LangGraph+%26+real-time+systems;CS+%40+FAST+National+University)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E44FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Full-Stack+%2B+AI;Shipping+production+products+that+scale;+Building+with+RAG%2C+LangGraph+%26+real-time+systems;CS+%40+FAST+National+University)
 
 ---
 
